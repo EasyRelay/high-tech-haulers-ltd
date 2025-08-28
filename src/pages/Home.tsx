@@ -8,7 +8,7 @@ const Home: React.FC = () => {
       <section 
         className="relative h-screen flex items-center justify-center bg-cover bg-center bg-no-repeat"
         style={{
-          backgroundImage: 'linear-gradient(rgba(10, 37, 64, 0.7), rgba(10, 37, 64, 0.7)), url("/images/image.png")'
+          backgroundImage: 'linear-gradient(rgba(10, 37, 64, 0.7), rgba(10, 37, 64, 0.7)), url("/images/wp2811593.jpg")'
         }}
       >
         <div className="text-center text-white max-w-4xl px-4">
