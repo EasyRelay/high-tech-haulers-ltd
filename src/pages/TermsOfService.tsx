@@ -33,8 +33,8 @@ const TermsOfService: React.FC = () => {
 
             <h2 className="font-heading text-xl font-semibold text-primary mt-8 mb-4">3. Licensing and Compliance</h2>
             <p className="text-gray-600 mb-6">
-              Our company operates under valid federal transportation licenses including Motor Carrier Number (MC: 7777) 
-              and Department of Transportation Number (DOT: 1111). We maintain all required insurance coverage and 
+              Our company operates under valid federal transportation licenses including Motor Carrier Number 
+              and Department of Transportation Number. We maintain all required insurance coverage and 
               comply with federal and state transportation regulations.
             </p>
 
