@@ -63,7 +63,7 @@ const PrivacyPolicy: React.FC = () => {
             <p className="text-gray-600 mb-4">Message frequency may vary. Message and data rates may apply.</p>
             <p className="text-gray-600 mb-6">
               You may opt out at any time by replying STOP. For assistance, reply HELP or contact us at
-              none.
+              dispatch@hightechhaulers.com.
             </p>
 
             <h3 className="font-heading text-lg font-semibold text-primary mt-6 mb-3">Mobile Opt-In Sharing</h3>
@@ -98,7 +98,9 @@ const PrivacyPolicy: React.FC = () => {
               <li>Object to or restrict certain data processing</li>
               <li>Withdraw consent for data usage (where applicable)</li>
             </ul>
-            <p className="text-gray-600 mb-6">To exercise these rights, please contact us at none.</p>
+            <p className="text-gray-600 mb-6">
+              To exercise these rights, please contact us at dispatch@hightechhaulers.com.
+            </p>
 
             <h2 className="font-heading text-xl font-semibold text-primary mt-8 mb-4">Security of Your Information</h2>
             <p className="text-gray-600 mb-6">
@@ -124,8 +126,11 @@ const PrivacyPolicy: React.FC = () => {
             </p>
             <div className="bg-neutral p-4 rounded-lg">
               <p className="text-gray-700 font-medium mb-2">HIGH-TECH HAULERS LTD</p>
-              <p className="text-gray-600 mb-1">1231 Cornell Park Dr, Blue Ash, OH 45242</p>
-              <p className="text-gray-600 mb-1">Phone: +1-000-000-0000</p>
+              <p className="text-gray-600 mb-1">11231 Cornell Park Dr, Blue Ash, OH 45242</p>
+              <p className="text-gray-600 mb-1">MC#: 1759322</p>
+              <p className="text-gray-600 mb-1">US DOT#: 4461123</p>
+              <p className="text-gray-600 mb-1">Phone: RC # 513-277-3585</p>
+              <p className="text-gray-600">Email: dispatch@hightechhaulers.com</p>
             </div>
           </div>
         </div>

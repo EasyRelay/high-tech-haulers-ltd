@@ -1,5 +1,5 @@
 import React from 'react';
-import { MapPin, Phone } from 'lucide-react';
+import { MapPin, Phone, Mail } from 'lucide-react';
 import Logo from './Logo';
 
 const Footer: React.FC = () => {
@@ -24,18 +24,29 @@ const Footer: React.FC = () => {
                 <MapPin className="w-5 h-5 text-secondary mt-1 flex-shrink-0" />
                 <div>
                   <p className="text-gray-300">
-                    1231 Cornell Park Dr<br />
+                    11231 Cornell Park Dr<br />
                     Blue Ash, OH 45242
                   </p>
+                  <p className="text-gray-300 mt-2">MC#: 1759322</p>
+                  <p className="text-gray-300">US DOT#: 4461123</p>
                 </div>
               </div>
               <div className="flex items-center space-x-3">
                 <Phone className="w-5 h-5 text-secondary flex-shrink-0" />
                 <a 
-                  href="tel:+18008294933" 
+                  href="tel:+15132773585" 
                   className="text-gray-300 hover:text-accent transition-colors duration-200"
                 >
-                  +1-000-000-0000
+                  RC # 513-277-3585
+                </a>
+              </div>
+              <div className="flex items-center space-x-3">
+                <Mail className="w-5 h-5 text-secondary flex-shrink-0" />
+                <a
+                  href="mailto:dispatch@hightechhaulers.com"
+                  className="text-gray-300 hover:text-accent transition-colors duration-200"
+                >
+                  dispatch@hightechhaulers.com
                 </a>
               </div>
             </div>

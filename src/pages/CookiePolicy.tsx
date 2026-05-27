@@ -81,8 +81,11 @@ const CookiePolicy: React.FC = () => {
             </p>
             <div className="bg-neutral p-4 rounded-lg">
               <p className="text-gray-700 font-medium mb-2">HIGH-TECH HAULERS LTD</p>
-              <p className="text-gray-600 mb-1">1231 Cornell Park Dr, Blue Ash, OH 45242</p>
-              <p className="text-gray-600 mb-1">Phone: +1-000-000-0000</p>
+              <p className="text-gray-600 mb-1">11231 Cornell Park Dr, Blue Ash, OH 45242</p>
+              <p className="text-gray-600 mb-1">MC#: 1759322</p>
+              <p className="text-gray-600 mb-1">US DOT#: 4461123</p>
+              <p className="text-gray-600 mb-1">Phone: RC # 513-277-3585</p>
+              <p className="text-gray-600">Email: dispatch@hightechhaulers.com</p>
             </div>
           </div>
         </div>

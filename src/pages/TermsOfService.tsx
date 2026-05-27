@@ -33,6 +33,10 @@ const TermsOfService: React.FC = () => {
               and Department of Transportation Number. We maintain all required insurance coverage and 
               comply with federal and state transportation regulations.
             </p>
+            <ul className="list-disc list-inside text-gray-600 mb-6 space-y-2">
+              <li>MC#: 1759322</li>
+              <li>US DOT#: 4461123</li>
+            </ul>
 
             <h2 className="font-heading text-xl font-semibold text-primary mt-8 mb-4">4. Service Terms and Conditions</h2>
             
@@ -105,8 +109,11 @@ const TermsOfService: React.FC = () => {
             </p>
             <div className="bg-neutral p-4 rounded-lg">
               <p className="text-gray-700 font-medium mb-2">HIGH-TECH HAULERS LTD</p>
-              <p className="text-gray-600 mb-1">1231 Cornell Park Dr, Blue Ash, OH 45242</p>
-              <p className="text-gray-600 mb-1">Phone: +1-000-000-0000</p>
+              <p className="text-gray-600 mb-1">11231 Cornell Park Dr, Blue Ash, OH 45242</p>
+              <p className="text-gray-600 mb-1">MC#: 1759322</p>
+              <p className="text-gray-600 mb-1">US DOT#: 4461123</p>
+              <p className="text-gray-600 mb-1">Phone: RC # 513-277-3585</p>
+              <p className="text-gray-600">Email: dispatch@hightechhaulers.com</p>
             </div>
 
             <div className="mt-8 p-4 bg-primary text-white rounded-lg">

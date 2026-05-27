@@ -19,7 +19,7 @@ const Home: React.FC = () => {
             Reliable freight solutions with advanced technology
           </p>
           <a
-            // href="tel:+18008294933"
+            // href="tel:+15132773585"
             className="inline-flex items-center space-x-3 bg-accent text-primary px-8 py-4 rounded-lg text-lg font-semibold hover:bg-yellow-500 transition-colors duration-200 shadow-lg"
           >
             <Phone className="w-6 h-6" />
@@ -387,7 +387,7 @@ const Home: React.FC = () => {
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
             <a
-              href="tel:+18008294933"
+              href="tel:+15132773585"
               className="flex items-center space-x-2 bg-accent text-primary px-8 py-4 rounded-lg font-semibold hover:bg-yellow-500 transition-colors duration-200 shadow-lg"
             >
               <Phone className="w-6 h-6" />
@@ -417,15 +417,15 @@ const Home: React.FC = () => {
               </p>
               <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
                 {/* <a
-                  href="tel:+18008294933"
+                  href="tel:+15132773585"
                   className="flex items-center space-x-2 bg-secondary text-white px-6 py-3 rounded-lg font-medium hover:bg-blue-600 transition-colors duration-200"
                 >
                   <Phone className="w-5 h-5" />
-                  <span>+1-800-829-4933</span>
+                  <span>RC # 513-277-3585</span>
                 </a> */}
                 <div className="flex items-center space-x-2 text-gray-600">
                   <MapPin className="w-5 h-5" />
-                  <span>Blue Ash, OH 45242</span>
+                  <span>11231 Cornell Park Dr, Blue Ash, OH 45242</span>
                 </div>
               </div>
             </div>
@@ -440,6 +440,7 @@ const Home: React.FC = () => {
             <h3 className="font-heading text-2xl font-semibold">
               Fully Licensed & Insured
             </h3>
+            <p className="mt-3 text-gray-200">MC#: 1759322 | US DOT#: 4461123</p>
           </div>
         </div>
       </section>
