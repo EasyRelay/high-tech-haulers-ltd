@@ -8,10 +8,6 @@ const CookiePolicy: React.FC = () => {
           <h1 className="font-heading text-3xl font-bold text-primary mb-8">Cookie Policy</h1>
           
           <div className="prose prose-lg max-w-none">
-            <p className="text-gray-600 mb-6">
-              <strong>Last Updated:</strong> {new Date().toLocaleDateString()}
-            </p>
-
             <h2 className="font-heading text-xl font-semibold text-primary mt-8 mb-4">1. What Are Cookies</h2>
             <p className="text-gray-600 mb-6">
               Cookies are small text files that are placed on your computer or mobile device when you visit our website. 
@@ -87,7 +83,6 @@ const CookiePolicy: React.FC = () => {
               <p className="text-gray-700 font-medium mb-2">HIGH-TECH HAULERS LTD</p>
               <p className="text-gray-600 mb-1">1231 Cornell Park Dr, Blue Ash, OH 45242</p>
               <p className="text-gray-600 mb-1">Phone: +1-000-000-0000</p>
-              <p className="text-gray-600">Email: none</p>
             </div>
           </div>
         </div>

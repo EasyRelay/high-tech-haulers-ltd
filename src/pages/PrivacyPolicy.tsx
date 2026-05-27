@@ -9,10 +9,6 @@ const PrivacyPolicy: React.FC = () => {
           
           <div className="prose prose-lg max-w-none">
             <p className="text-gray-600 mb-6">
-              <strong>Last Updated:</strong>08-27-2025
-            </p>
-
-            <p className="text-gray-600 mb-6">
               At HIGH-TECH HAULERS LTD, we are committed to protecting your privacy. This Privacy Policy explains how we
               collect, use, disclose, and safeguard your information when you visit our website and use our services,
               including integrations with third-party communication platforms such as RingCentral.
@@ -130,7 +126,6 @@ const PrivacyPolicy: React.FC = () => {
               <p className="text-gray-700 font-medium mb-2">HIGH-TECH HAULERS LTD</p>
               <p className="text-gray-600 mb-1">1231 Cornell Park Dr, Blue Ash, OH 45242</p>
               <p className="text-gray-600 mb-1">Phone: +1-000-000-0000</p>
-              <p className="text-gray-600">Email: none</p>
             </div>
           </div>
         </div>
