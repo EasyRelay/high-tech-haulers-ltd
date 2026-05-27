@@ -1,5 +1,5 @@
 import React from 'react';
-import { Phone, MapPin, Shield, Clock, Truck, Zap, Users, Award, Globe, CheckCircle } from 'lucide-react';
+import { Phone, MapPin, Shield, Clock, Zap, Users, CheckCircle } from 'lucide-react';
 
 const Home: React.FC = () => {
   return (
@@ -19,7 +19,7 @@ const Home: React.FC = () => {
             Reliable freight solutions with advanced technology
           </p>
           <a
-            // href="tel:+15132773585"
+            href="tel:+15132773585"
             className="inline-flex items-center space-x-3 bg-accent text-primary px-8 py-4 rounded-lg text-lg font-semibold hover:bg-yellow-500 transition-colors duration-200 shadow-lg"
           >
             <Phone className="w-6 h-6" />
